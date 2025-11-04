@@ -6,29 +6,16 @@ Program ini dibuat menggunakan bahasa pemrograman Java.
 Tujuannya adalah untuk menghitung volume tabung (silinder) berdasarkan jari-jari dan tinggi yang dimasukkan oleh pengguna.
 
 Rumus yang digunakan:
-
-Volume
-=
-𝜋
-
-×
-𝑟
-2
-×
-𝑡
 Volume=π×r
 2
 ×t
 
 Keterangan:
 
-𝑟
 r = jari-jari tabung
 
-𝑡
 t = tinggi tabung
 
-𝜋
 π = konstanta (3.14159265…)
 
 Cara Kerja Program
